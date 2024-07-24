@@ -29,7 +29,7 @@ To maintain a high level of consistency, no edits should be made to the logo fil
 Colors:
 
 Headline Blue: '#00A4C7'
-
+`#0969DA`
 Blue Black: '#003229'
 
 Carribean Blue: '#08DAFF'
