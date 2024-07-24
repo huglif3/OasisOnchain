@@ -14,6 +14,8 @@ These are our brand guidelines, learn how to use and apply our brand assets.
 
 Logos
 [Download all assets](https://drive.google.com/drive/folders/1uMGrj_mtpcyNsrE57p7VfTyMQmTj97ZO?usp=sharing)
+![Oasis-Logo](https://github.com/user-attachments/assets/c44603e8-b642-41a7-b621-23f99a5c319f)
+![Oasis Logo-white](https://github.com/user-attachments/assets/d7a78158-0201-4b83-b801-3d0c707c399b)
 
 Usage
 ---
