@@ -26,14 +26,15 @@ The Oasis Onchain logo is often accompanied by our tagline, and contrasted with 
 
 To maintain a high level of consistency, no edits should be made to the logo files; no shadows, outlines, skewing or combining the logo with other icons.
 
-Colours
-Headline Blue: #00A4C7
+Colors:
 
-Blue Black: #003229
+Headline Blue: '#00A4C7'
 
-Carribean Blue: #08DAFF
+Blue Black: '#003229'
 
-Off White: #F9FFE3
+Carribean Blue: '#08DAFF'
+
+Off White: '#F9FFE3'
 
 
 Support
