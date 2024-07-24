@@ -24,9 +24,10 @@ The Oasis Onchain logo is often accompanied by our tagline, and contrasted with 
 ![Friday Twitter Hang (9)](https://github.com/user-attachments/assets/f543875b-dc82-43f3-af93-68811cb9b894)
 ![Friday Twitter Hang (3)](https://github.com/user-attachments/assets/7503e19f-2dce-4c49-b9f6-af6dda86e4f9)
 
-To maintain a high level of consistency, no edits should be made to the logo files; no shadows, outlines, skewing or combining the logo with other icons.
+> [!IMPORTANT]
+> To maintain a high level of consistency, no edits should be made to the logo files; no shadows, outlines, skewing or combining the logo with other icons.
 
-Colors:
+> Colors:
 
 Headline Blue: '#00A4C7'
 
