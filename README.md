@@ -27,7 +27,7 @@ The Oasis Onchain logo is often accompanied by our tagline, and contrasted with 
 > [!IMPORTANT]
 > To maintain a high level of consistency, no edits should be made to the logo files; no shadows, outlines, skewing or combining the logo with other icons.
 
-> Colors:
+Colors:
 
 Headline Blue: '#00A4C7'
 
